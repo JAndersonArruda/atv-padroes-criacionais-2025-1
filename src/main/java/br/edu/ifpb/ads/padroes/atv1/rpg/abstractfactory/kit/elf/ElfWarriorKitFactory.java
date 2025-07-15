@@ -1,11 +1,10 @@
 package br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.kit.elf;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.attributes.Attributes;
+import br.edu.ifpb.ads.padroes.atv1.rpg.util.Attributes;
 import br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.kit.CharacterKitFactory;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.armor.Armor;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.armor.ArmorFactory;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.armor.LeatherArmor;
-import br.edu.ifpb.ads.padroes.atv1.rpg.factory.armor.WarriorArmorFactory;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.weapon.WarriorWeaponFactory;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.weapon.Weapon;
 import br.edu.ifpb.ads.padroes.atv1.rpg.util.Skill;

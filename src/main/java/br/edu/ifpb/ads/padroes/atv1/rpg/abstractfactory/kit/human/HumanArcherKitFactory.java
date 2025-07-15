@@ -1,6 +1,6 @@
 package br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.kit.human;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.attributes.Attributes;
+import br.edu.ifpb.ads.padroes.atv1.rpg.util.Attributes;
 import br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.kit.CharacterKitFactory;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.armor.ArcherArmorFactory;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.armor.Armor;

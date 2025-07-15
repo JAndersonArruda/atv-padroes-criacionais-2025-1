@@ -1,4 +1,4 @@
-package br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.attributes;
+package br.edu.ifpb.ads.padroes.atv1.rpg.util;
 
 /**
  * Conjunto de atributos primários de um personagem.

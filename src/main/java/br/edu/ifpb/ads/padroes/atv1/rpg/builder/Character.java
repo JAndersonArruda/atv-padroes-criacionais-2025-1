@@ -1,6 +1,6 @@
 package br.edu.ifpb.ads.padroes.atv1.rpg.builder;
 
-import br.edu.ifpb.ads.padroes.atv1.rpg.abstractfactory.attributes.Attributes;
+import br.edu.ifpb.ads.padroes.atv1.rpg.util.Attributes;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.armor.Armor;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.weapon.Weapon;
 import br.edu.ifpb.ads.padroes.atv1.rpg.util.Skill;
